@@ -10,13 +10,3 @@
     "minimum-stability": "stable",
     "license": "GPL-2.0-or-later"
 }
-
-
-
-,,,
-
-
-composer validate
-
-
-.
