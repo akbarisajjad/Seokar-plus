@@ -1,0 +1,12 @@
+{
+    "name": "sajjadakbari/seokar",
+    "description": "A modern and professional WordPress theme",
+    "authors": [
+        {
+            "name": "Sajjad Akbari",
+            "email": "Sajjadakbari@dr.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "license": "GPL-2.0-or-later"
+}
