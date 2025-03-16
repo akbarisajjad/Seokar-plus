@@ -1,12 +1,16 @@
 {
-    "name": "sajjadakbari/seokar",
+    "name": "sajjadakbari/theme-name",
     "description": "A modern and professional WordPress theme",
     "authors": [
         {
             "name": "Sajjad Akbari",
-            "email": "Sajjadakbari@dr.com"
+            "email": "your-email@example.com"
         }
     ],
     "minimum-stability": "stable",
-    "license": "GPL-2.0-or-later"
+    "license": "GPL-2.0-or-later",
+    "require": {
+        "illuminate/support": "^8.0",
+        "symfony/var-dumper": "^5.0"
+    }
 }
